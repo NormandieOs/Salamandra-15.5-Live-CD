@@ -1,4 +1,4 @@
-# Notes de version de NormandieOS Salamandra XFCE4 15.5 # 
+# Notes de version de NormandieOs Salamandra XFCE4 15.5 # 
 
 ## Contients ##
 
